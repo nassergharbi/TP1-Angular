@@ -21,11 +21,4 @@ export class PostListItemComponent implements OnInit {
   onDecrementLoveIts() {
     return this.post.loveIts--;
   }
- /* getColor() {
-    if (this.post.loveIts > 0) {
-      return 'green';
-    } else if (this.post.loveIts < 0) {
-      return 'yellow';
-    }
-  }*/
 }
