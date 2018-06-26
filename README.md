@@ -1,4 +1,6 @@
 # TP1-Angular
+
+26/06/18 ATTENTION: les fichiers scss de chaque n'ont pas été uploadés par GitHub car ils sont vides. Sans ces fichiers, le projet ne compile pas.
 							
 							Bonjour,
 
